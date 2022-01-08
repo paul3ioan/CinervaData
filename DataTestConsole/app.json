@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Cinerva": "Data Source=localhost;Initial Catalog=Cinerva;Trusted_Connection=True"
+  }
+}
