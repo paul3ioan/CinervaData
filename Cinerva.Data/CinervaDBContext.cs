@@ -1,14 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
 using Cinerva.Data.Entities;
 namespace Cinerva.Data
 {
     public class CinervaDBContext : DbContext
     {
-        public CinervaDBContext()
-        {
-
-        }
+        public CinervaDBContext(DbContextOptions<CinervaDBContext> options) : base(options) { }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<City> Cities { get; set; }
@@ -25,13 +21,6 @@ namespace Cinerva.Data
         public DbSet<RoomReservation> RoomReservations { get; set; }
         public DbSet<Reservation> Reservations { get; set; }
         public DbSet<Review> Reviews { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-
-            optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=Cinerva;Trusted_Connection=True;").LogTo(Console.WriteLine, Microsoft.Extensions.Logging.LogLevel.Information);
-                
-            base.OnConfiguring(optionsBuilder); 
-        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Country>()
@@ -105,7 +94,7 @@ namespace Cinerva.Data
               .HasForeignKey(p => p.ReservationId),
               x => x.HasOne(f => f.Room).WithMany(p => p.RoomReservations)
               .HasForeignKey(f => f.RoomId),
-              x => x.HasKey(f => new { f.ReservationId, f.RoomId })
+              x => x.HasKey(f => f.Id)
               );
             
             modelBuilder.Entity<PropertyFacility>()

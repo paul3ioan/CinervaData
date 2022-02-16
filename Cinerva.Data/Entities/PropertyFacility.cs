@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-namespace Cinerva.Data.Entities
+﻿namespace Cinerva.Data.Entities
 {
     public class PropertyFacility
     {

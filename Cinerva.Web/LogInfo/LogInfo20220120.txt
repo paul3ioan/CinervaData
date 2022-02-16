@@ -1,0 +1,1147 @@
+2022-01-20 11:10:47.105 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+none: none 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:11:01.508 -08:00 [INF] 200
+
+2022-01-20 11:11:20.796 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/: http://localhost:5000/ 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:11:23.555 -08:00 [INF] 200
+
+2022-01-20 11:11:26.784 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:11:27.269 -08:00 [INF] 200
+
+2022-01-20 11:12:03.153 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+max-age=0: max-age=0 
+multipart/form-data; boundary=----WebKitFormBoundaryTSNFUztLeX7AXmTm: multipart/form-data; boundary=----WebKitFormBoundaryTSNFUztLeX7AXmTm 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000: http://localhost:5000 
+http://localhost:5000/Property/Create: http://localhost:5000/Property/Create 
+1: 1 
+1464: 1464 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:12:03.287 -08:00 [INF] 200
+
+2022-01-20 11:15:08.646 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+max-age=0: max-age=0 
+multipart/form-data; boundary=----WebKitFormBoundaryshJClZX3GIvqAgIx: multipart/form-data; boundary=----WebKitFormBoundaryshJClZX3GIvqAgIx 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000: http://localhost:5000 
+http://localhost:5000/Property/Create: http://localhost:5000/Property/Create 
+1: 1 
+1486: 1486 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:08.915 -08:00 [INF] 302
+
+2022-01-20 11:15:08.919 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+max-age=0: max-age=0 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property/Create: http://localhost:5000/Property/Create 
+1: 1 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+
+2022-01-20 11:15:08.942 -08:00 [INF] 200
+
+2022-01-20 11:15:18.844 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:18.880 -08:00 [INF] 200
+
+2022-01-20 11:15:21.002 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=1: http://localhost:5000/Property?page=1 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:21.027 -08:00 [INF] 200
+
+2022-01-20 11:15:22.267 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=2: http://localhost:5000/Property?page=2 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:22.290 -08:00 [INF] 200
+
+2022-01-20 11:15:24.609 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=3: http://localhost:5000/Property?page=3 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:24.632 -08:00 [INF] 200
+
+2022-01-20 11:15:25.587 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=4: http://localhost:5000/Property?page=4 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:25.607 -08:00 [INF] 200
+
+2022-01-20 11:15:25.896 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=5: http://localhost:5000/Property?page=5 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:25.913 -08:00 [INF] 200
+
+2022-01-20 11:15:26.202 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=6: http://localhost:5000/Property?page=6 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:26.222 -08:00 [INF] 200
+
+2022-01-20 11:15:26.500 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=7: http://localhost:5000/Property?page=7 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:26.517 -08:00 [INF] 200
+
+2022-01-20 11:15:26.801 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=8: http://localhost:5000/Property?page=8 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:26.821 -08:00 [INF] 200
+
+2022-01-20 11:15:28.963 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=9: http://localhost:5000/Property?page=9 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:15:29.205 -08:00 [INF] 200
+
+2022-01-20 11:16:00.132 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property/Details/7026: http://localhost:5000/Property/Details/7026 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:00.157 -08:00 [INF] 200
+
+2022-01-20 11:16:02.780 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:02.799 -08:00 [INF] 200
+
+2022-01-20 11:16:03.520 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=1: http://localhost:5000/Property?page=1 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:03.542 -08:00 [INF] 200
+
+2022-01-20 11:16:03.840 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=2: http://localhost:5000/Property?page=2 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:03.860 -08:00 [INF] 200
+
+2022-01-20 11:16:04.231 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=3: http://localhost:5000/Property?page=3 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:04.249 -08:00 [INF] 200
+
+2022-01-20 11:16:05.084 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=4: http://localhost:5000/Property?page=4 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:05.102 -08:00 [INF] 200
+
+2022-01-20 11:16:05.422 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=5: http://localhost:5000/Property?page=5 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:05.439 -08:00 [INF] 200
+
+2022-01-20 11:16:05.770 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=6: http://localhost:5000/Property?page=6 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:05.788 -08:00 [INF] 200
+
+2022-01-20 11:16:06.124 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=7: http://localhost:5000/Property?page=7 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:06.142 -08:00 [INF] 200
+
+2022-01-20 11:16:06.496 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=8: http://localhost:5000/Property?page=8 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:06.513 -08:00 [INF] 200
+
+2022-01-20 11:16:09.621 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=9: http://localhost:5000/Property?page=9 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:09.638 -08:00 [INF] 200
+
+2022-01-20 11:16:40.335 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property/Details/7026: http://localhost:5000/Property/Details/7026 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:40.356 -08:00 [INF] 200
+
+2022-01-20 11:16:41.700 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:41.728 -08:00 [INF] 200
+
+2022-01-20 11:16:42.008 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=1: http://localhost:5000/Property?page=1 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:42.034 -08:00 [INF] 200
+
+2022-01-20 11:16:42.746 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=0: http://localhost:5000/Property?page=0 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:42.770 -08:00 [INF] 200
+
+2022-01-20 11:16:43.148 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=1: http://localhost:5000/Property?page=1 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:43.174 -08:00 [INF] 200
+
+2022-01-20 11:16:43.461 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=2: http://localhost:5000/Property?page=2 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:43.478 -08:00 [INF] 200
+
+2022-01-20 11:16:43.812 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=3: http://localhost:5000/Property?page=3 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:43.828 -08:00 [INF] 200
+
+2022-01-20 11:16:44.882 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=4: http://localhost:5000/Property?page=4 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:44.897 -08:00 [INF] 200
+
+2022-01-20 11:16:45.205 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=5: http://localhost:5000/Property?page=5 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:45.222 -08:00 [INF] 200
+
+2022-01-20 11:16:45.558 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=6: http://localhost:5000/Property?page=6 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:45.573 -08:00 [INF] 200
+
+2022-01-20 11:16:45.887 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=7: http://localhost:5000/Property?page=7 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:45.902 -08:00 [INF] 200
+
+2022-01-20 11:16:46.237 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=8: http://localhost:5000/Property?page=8 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:16:46.255 -08:00 [INF] 200
+
+2022-01-20 11:16:48.450 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=9: http://localhost:5000/Property?page=9 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:17:39.507 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+none: none 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:17:46.210 -08:00 [INF] 200
+
+2022-01-20 11:17:51.155 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/: http://localhost:5000/ 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:17:53.648 -08:00 [INF] 200
+
+2022-01-20 11:17:55.700 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:17:56.194 -08:00 [INF] 200
+
+2022-01-20 11:18:07.770 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+max-age=0: max-age=0 
+multipart/form-data; boundary=----WebKitFormBoundaryBUTFY2T4uDp3LFYs: multipart/form-data; boundary=----WebKitFormBoundaryBUTFY2T4uDp3LFYs 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000: http://localhost:5000 
+http://localhost:5000/Property/Create: http://localhost:5000/Property/Create 
+1: 1 
+265312: 265312 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:19.629 -08:00 [INF] 302
+
+2022-01-20 11:19:19.635 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+max-age=0: max-age=0 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property/Create: http://localhost:5000/Property/Create 
+1: 1 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+
+2022-01-20 11:19:19.664 -08:00 [INF] 200
+
+2022-01-20 11:19:21.675 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:21.697 -08:00 [INF] 200
+
+2022-01-20 11:19:24.511 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:24.548 -08:00 [INF] 200
+
+2022-01-20 11:19:25.985 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=1: http://localhost:5000/Property?page=1 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:26.011 -08:00 [INF] 200
+
+2022-01-20 11:19:27.105 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=2: http://localhost:5000/Property?page=2 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:27.132 -08:00 [INF] 200
+
+2022-01-20 11:19:28.207 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=3: http://localhost:5000/Property?page=3 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:28.226 -08:00 [INF] 200
+
+2022-01-20 11:19:29.124 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=4: http://localhost:5000/Property?page=4 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:29.145 -08:00 [INF] 200
+
+2022-01-20 11:19:30.056 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=5: http://localhost:5000/Property?page=5 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:30.080 -08:00 [INF] 200
+
+2022-01-20 11:19:31.314 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=6: http://localhost:5000/Property?page=6 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:31.335 -08:00 [INF] 200
+
+2022-01-20 11:19:32.484 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=7: http://localhost:5000/Property?page=7 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:32.506 -08:00 [INF] 200
+
+2022-01-20 11:19:33.499 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=8: http://localhost:5000/Property?page=8 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:33.521 -08:00 [INF] 200
+
+2022-01-20 11:19:36.032 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=9: http://localhost:5000/Property?page=9 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:36.044 -08:00 [INF] 200
+
+2022-01-20 11:19:41.532 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property?page=10: http://localhost:5000/Property?page=10 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:19:53.005 -08:00 [INF] 200
+
+2022-01-20 11:32:29.929 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+none: none 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:32:35.065 -08:00 [INF] 200
+
+2022-01-20 11:32:48.546 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/: http://localhost:5000/ 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-20 11:33:43.087 -08:00 [INF] 200
+
+2022-01-20 11:33:57.633 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Property: http://localhost:5000/Property 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+

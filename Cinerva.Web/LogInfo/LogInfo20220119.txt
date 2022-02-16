@@ -1,0 +1,93 @@
+2022-01-19 05:09:41.497 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+none: none 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-19 05:09:46.210 -08:00 [INF] 200
+
+2022-01-19 05:12:49.835 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+none: none 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-19 05:12:55.020 -08:00 [INF] 200
+
+2022-01-19 05:13:01.630 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/: http://localhost:5000/ 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-19 05:13:01.637 -08:00 [INF] 200
+
+2022-01-19 05:13:01.977 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/: http://localhost:5000/ 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-19 05:13:02.121 -08:00 [INF] 200
+
+2022-01-19 05:13:02.945 -08:00 [INF] text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 
+keep-alive: keep-alive 
+localhost:5000: localhost:5000 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 
+gzip, deflate, br: gzip, deflate, br 
+ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7 
+.AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE: .AspNetCore.Antiforgery.CbNt7pbr1HI=CfDJ8NR6DYxp0ORPnfNd9iwA0ACjGB2YP_iR_GVWjVvwaiAsNIJEhJILO1Ty2vnnDsWogfW3QZwgRyN8zf-v49qGKgk2OFu-ft9prNN3Fidhuz-gtCKhiEPnUj--3_JoqfByiEhrmC14DIvy5wpiyXKCaCE 
+http://localhost:5000/Home/Privacy: http://localhost:5000/Home/Privacy 
+1: 1 
+" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97": " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97" 
+?0: ?0 
+"Windows": "Windows" 
+same-origin: same-origin 
+navigate: navigate 
+?1: ?1 
+document: document 
+
+2022-01-19 05:13:05.116 -08:00 [INF] 200
+
