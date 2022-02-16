@@ -3,9 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinerva.Data", "Cinerva.Data\Cinerva.Data.csproj", "{7528C7B6-6097-488E-96E2-84711D31B090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinerva.Data", "Cinerva.Data\Cinerva.Data.csproj", "{7528C7B6-6097-488E-96E2-84711D31B090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTestConsole", "DataTestConsole\DataTestConsole.csproj", "{1081F5A0-60EC-4AC7-A638-3DFAD8BC5DE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTestConsole", "DataTestConsole\DataTestConsole.csproj", "{1081F5A0-60EC-4AC7-A638-3DFAD8BC5DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinerva.Services", "Cinerva.Services\Cinerva.Services.csproj", "{060E56C5-AD65-402B-B0C1-2E100311D71C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7528C7B6-6097-488E-96E2-84711D31B090} = {7528C7B6-6097-488E-96E2-84711D31B090}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinerva.Web", "Cinerva.Web\Cinerva.Web.csproj", "{0FA8E741-44F6-47B8-B73F-D8B54073284F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{060E56C5-AD65-402B-B0C1-2E100311D71C} = {060E56C5-AD65-402B-B0C1-2E100311D71C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,14 @@ Global
 		{1081F5A0-60EC-4AC7-A638-3DFAD8BC5DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1081F5A0-60EC-4AC7-A638-3DFAD8BC5DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1081F5A0-60EC-4AC7-A638-3DFAD8BC5DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060E56C5-AD65-402B-B0C1-2E100311D71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060E56C5-AD65-402B-B0C1-2E100311D71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060E56C5-AD65-402B-B0C1-2E100311D71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060E56C5-AD65-402B-B0C1-2E100311D71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA8E741-44F6-47B8-B73F-D8B54073284F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA8E741-44F6-47B8-B73F-D8B54073284F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA8E741-44F6-47B8-B73F-D8B54073284F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA8E741-44F6-47B8-B73F-D8B54073284F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
